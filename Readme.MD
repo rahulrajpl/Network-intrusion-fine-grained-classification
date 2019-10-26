@@ -14,7 +14,7 @@ The dataset is at http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
 | TowardsDataScience | Classifying imbalanced dataset | [link](https://towardsdatascience.com/classifying-rare-events-using-five-machine-learning-techniques-fab464573233) | - | for reference only
 | KDNuggets| Feature Selection | [link](https://www.kdnuggets.com/2019/10/feature-selection-beyond-feature-importance.html)| - | For reference
 | KDNuggets| Evaluation Matrices | [link](https://www.kdnuggets.com/2019/10/5-classification-evaluation-metrics-every-data-scientist-must-know.html) | - | For reference
-
+| Github | LIME | [link](https://github.com/marcotcr/lime/tree/master/doc/notebooks) | - | For exaplaining Model |
 ## Contributors
 
     Arun Jain 
