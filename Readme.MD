@@ -16,12 +16,5 @@ Download Dataset at http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
 | KDNuggets| Evaluation Matrices | [link](https://www.kdnuggets.com/2019/10/5-classification-evaluation-metrics-every-data-scientist-must-know.html) | - | For reference
 | Github | LIME | [link](https://github.com/marcotcr/lime/tree/master/doc/notebooks) | code/MultinomialNB.ipynb | For explaining predictions |
 | Medium | Feature Selection using Covariance| [link](https://medium.com/towards-artificial-intelligence/feature-selection-and-dimensionality-reduction-using-covariance-matrix-plot-b4c7498abd07)| - | For feature reduction |
-## Contributors
 
-    Arun Jain 
-    PV Sai Charan
-    Khalid Parvez
-    Dhurender
-    Aakash
-    Rahul Raj
 
